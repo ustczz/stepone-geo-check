@@ -16,7 +16,7 @@
 3. 前端纯 SPA 渲染导致无 JS 首屏只有几十个字，AI 爬虫进去看到一片空白；
 4. 缺少 `Organization`、`FAQPage`、`Product` JSON-LD 与原生 HTML `<table>` 参数对比表。
 
-`stepone-geo-check` **100% 纯代码实测、0 大模型 Token 消耗、内置严格 SSRF 安全防护**，覆盖 **6 大维度 × 28 项可验证指标**，并自动生成专属修复代码包。
+`stepone-geo-check` **100% 纯代码实测、0 大模型 Token 消耗、内置严格 SSRF 安全防护**，覆盖 **6 大维度 × 38 项可验证指标**，并自动生成专属修复代码包。
 
 ---
 
@@ -62,7 +62,7 @@ openclaw skills install stepone-geo-check
 
 ---
 
-## 📊 6 大维度 × 28 项评估体系
+## 📊 6 大维度 × 38 项评估体系
 
 | 维度 | 满分 | 核心实测项 |
 | :--- | :---: | :--- |

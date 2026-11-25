@@ -1,7 +1,7 @@
 {
   "name": "stepone-geo-check",
-  "version": "1.0.0",
-  "description": "Zero-dependency open-source GEO & AI Search Readiness checker (6 dimensions × 28 checks for Doubao, DeepSeek, Qwen, Yuanbao, ChatGPT, Claude, Perplexity, Bing & Google). Includes CLI, HTML report generator, MCP Server & OpenClaw/WorkBuddy Skill.",
+  "version": "1.1.0",
+  "description": "Zero-dependency GEO, Entity Grounding & SEO Website Readiness Checker (6 dimensions × 38 checks) for Doubao, DeepSeek, Qwen, Yuanbao, ChatGPT, Claude, Perplexity, Bing & Google.",
   "keywords": [
     "geo",
     "geo-check",
